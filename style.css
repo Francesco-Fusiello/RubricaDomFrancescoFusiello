@@ -1,0 +1,61 @@
+body{
+    background-color: #DEAB2A;
+}
+button{
+    border-radius: 20px;
+}
+h5{
+    color: #DEAB2A;
+    font-family: serif;
+}
+
+h1{
+   
+    color: black;
+    font-family: serif;
+
+}
+ .header-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .btn-custom{
+    background-color: #000;
+    color: #DEAB2A;
+    padding-top: 5px;
+    padding-bottom: 5px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+ }
+ .card-custom{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 30vh;
+    width: 30vh;
+    border-radius: 20px;
+    border: solid 2px #DEAB2A;
+    margin-top: 40px;
+ }
+
+ .card-contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 50vh;
+    width: 50vh;
+    border-radius: 20px;
+    border: solid 2px #000;
+    margin-top: 40px;
+   
+ }
+ .color{
+    color: #DEAB2A;
+ }
